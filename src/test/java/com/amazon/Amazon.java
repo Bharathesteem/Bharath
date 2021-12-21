@@ -19,6 +19,7 @@ public class Amazon extends BaseClass{
 	@AfterClass
 	public void afterClas() {
 		//quitBrowser();
+		System.out.println("dev");
 		
 
 	}
